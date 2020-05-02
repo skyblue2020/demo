@@ -1,0 +1,14 @@
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\bin\Debug\netcoreapp2.2\demo.deps.json
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.json
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\bin\Debug\netcoreapp2.2\demo.runtimeconfig.dev.json
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\bin\Debug\netcoreapp2.2\demo.dll
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\bin\Debug\netcoreapp2.2\demo.pdb
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\obj\Debug\netcoreapp2.2\demo.csprojAssemblyReference.cache
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\obj\Debug\netcoreapp2.2\demo.csproj.CoreCompileInputs.cache
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cache
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\obj\Debug\netcoreapp2.2\demo.RazorAssemblyInfo.cs
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfoInputs.cache
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\obj\Debug\netcoreapp2.2\demo.AssemblyInfo.cs
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\obj\Debug\netcoreapp2.2\demo.RazorTargetAssemblyInfo.cache
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\obj\Debug\netcoreapp2.2\demo.dll
+D:\Projects\Azure_Certification_Course_203\Web_Services\WebAppsGitHubDemo\demo\obj\Debug\netcoreapp2.2\demo.pdb
